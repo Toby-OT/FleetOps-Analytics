@@ -128,9 +128,6 @@ FleetOps-Analytics/
 ├── PowerBI/
 │   └── FleetOps_Analytics.pbix
 │
-├── Report/
-│   └── FleetOps_Analytics_Capstone_Report.pdf
-│
 ├── Screenshots/
 │   ├── executive-overview.png
 │   ├── driver-safety.png
